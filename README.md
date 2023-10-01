@@ -17,6 +17,6 @@ HOW TO INSTALL
 	```
 - [**Download LLM Saiga2**](https://huggingface.co/IlyaGusev/saiga2_13b_gguf/tree/main) **And put it in** ```models/``` **folder**
 
-- **Open ```bot.py``` and paste your bot token**
+- **Open** ```bot.py``` **and paste your bot token**
 
-- **Run ```bot.py```**
+- **Run** ```bot.py```
